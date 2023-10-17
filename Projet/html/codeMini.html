@@ -1,0 +1,130 @@
+<!DOCTYPE html> 
+<html lang="fr">
+    <head>
+        <meta charset = "utf-8">
+        <meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
+        <meta name="description" content="Entraînement au langage HTML">
+        <meta name="author" content="Alexandre PAULY">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="../css/normalize.css">
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="shortcut icon" href="../img/logo.png">
+        
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+        <!-- JavaScript -->
+        <script src="js/articles.js" async></script> <!-- Gestion des articles -->
+        
+        <title>Fauget friperie</title>
+    </head>
+    
+    <body>
+        <!-- Haut de page -->
+        <header id="mainHeader">
+            <!-- Haut de page - Logo -->
+            <div id="mainHeader-left">
+                <a href="index.html"><img src="img/logo.png " alt="Logo du site" id="headerLogo"></a>
+            </div>
+            
+            <!-- Haut de page - Menu -->
+            <div id="mainHeader-right">
+                <!-- Accéssibilités pour les sourds et malentendants -->
+                <h1 class="accessibility">Menu principal</h1>
+                <p class="accessibility"><a href="#pageContent" title="Accéder directement au contenu principal de cette page">Passer le menu</a></p>
+                <h1>Fauget</h1>
+
+                <!-- Menu apparent -->
+                <ul>
+                    <li><a href="index.html" title="Retour à la page d'accueil">Accueil</a></li>
+                    <li><a href="clothes.html" title="Catalogue des vêtements">Vêtements</a></li>
+                    <li><a href="shoes.html" title="Catalogue des chaussures">Chaussures</a></li>
+                    <li><a href="accessories.html" title="Catalogue des accessoires">Accessoires</a></li>
+                    <li><a href="customs.html" title="Catalogue des customs">Custom</a></li>
+                </ul>
+            </div>
+
+            <!-- Haut de page - Accès au compte et au panier -->
+            <div id="access">
+                <a href="connexion.html" title="Accès à votre compte" class="icon"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+                <a href="panier.html" title="Accès au panier" class="icon"><i class="fa fa-shopping-bag" aria-hidden="true"></i><span id="panierValue"></span></a>
+            </div>
+        </header>
+
+        <!-- Contenu de page -->
+        <section id="pageContent">
+            <!-- Menu Toggle -->
+            <input type="checkbox" name="" id="check">
+
+            <!-- Partie gauche - Liens vers produits -->
+            <main id="leftCol">
+                <label for="check" id="menuToggle">
+                    <i class="fa fa-times" aria-hidden="true" id="times"></i>
+                    <i class="fa fa-bars" aria-hidden="true" id="bars"></i>
+                </label>
+                <div id="lat-menu">Menu</div>
+                <ul>
+                    <li><a href="index.html" title="Retour à la page d'accueil">Accueil</a></li>
+                    <li><a href="new.html" title="Nouveautés en vitrine">Nouveautés</a></li>
+                    <li><a href="clothes.html" title="Catalogue des vêtements">Vêtements</a></li>
+                    <li><a href="shoes.html" title="Catalogue des chaussures">Chaussures</a></li>
+                    <li><a href="accessories.html" title="Catalogue des accessoires">Accessoires</a></li>
+                    <li><a href="customs.html" title="Catalogue des customs">Customs</a></li>
+                    <li><a href="giftCard.html" title="Carte cadeau">Carte cadeau</a></li>
+                </ul>
+            </main>
+            
+            <!-- Partie droite - Contenu de la page -->
+            <aside id="rightCol">
+            </aside>
+            <!-- Lien vers le haut du site -->
+            <div id="arrow">
+                <a href="#" title="Vers le haut du site"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+            </div>  
+        </section>
+
+        <!-- Bas de page -->
+        <footer>
+            <!-- Bandeau des moyens de paiement -->
+            <div id="footerHeadband">
+                <div id="headband-card">
+                    <img src="../img/Logos/visa.png" alt="Visa" class="card">
+                    <img src="../img/Logos/mastercard.png" alt="Mastercard" class="card">
+                    <img src="../img/Logos/paypal.png" alt="Paypal" class="card">
+                    <img src="../img/Logos/amex.png" alt="Amex" class="card">
+                </div>
+            </div>
+
+            <!-- Infomations du site -->
+            <div id ="mainFooter">
+                <!-- Bas de page - partie gauche -->
+                <div id="mainFooter-left">
+                    <img src="../img/logo.png " alt="Logo du site" id="footerLogo">
+                    <p>&copy; Fauget personal shoper. Tous droits réservés.</p>
+                </div>
+
+                <!-- Bas de page - partie droite -->
+                <div id="mainFooter-right">
+                    <!-- Réseaux sociaux -->
+                    <ul>
+                        <li><a href="#"><img src="../img/Logos/facebook.webp" alt="Facebook" title="Vers la page Facebook" class="icon"></a></li>
+                        <li><a href="#"><img src="../img/Logos/instagram.png" alt="Instagram" title="Vers la page Instagram" class="icon"></a></li>
+                        <li><a href="#"><img src="../img/Logos/twitter.png" alt="Twitter" title="Vers la page Twitter" class="icon"></a></li>
+                        <li><a href="#"><img src="../img/Logos/pinterest.png" alt="Pinterest" title="Vers la page Pinterest" class="icon"></a></li>
+                    </ul>
+
+                    <div id="border"></div>
+
+                    <!-- Informations supplémentaires -->
+                    <ul>
+                        <li><a href="about.html" title="Vers la page 'À propos'">À propos</a></li>
+                        <li><a href="contact.html" title="Vers la page de contact">Contact</a></li>
+                        <li><a href="q&a.html" title="Vers la FAQ">FAQ</a></li>
+                        <li><a href="legalNotices.html" title="Vers la page des Mentions légales">Mentions légales</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+{
+    "user1@example.com": {
+        "nom": "user1",
+        "prenom": "user1",
+        "date_naiss": "2023-03-28",
+        "mdp": "$2y$10$lhJAELv5Qow7t9U\/4N0mMueGHZ6rrE1DoJd81gGTScgbh69n\/wTPu"
+    },
+    "user2@example.com": {
+        "nom": "user2",
+        "prenom": "user2",
+        "date_naiss": "2023-04-05",
+        "mdp": "$2y$10$kSFY51WJHSktRe0PDtOR9ecIHWeAu\/JQEMDRTieVT.2nabSI39rTe"
+    },
+    "user3@example.com": {
+        "nom": "user3",
+        "prenom": "user3",
+        "date_naiss": "2023-04-06",
+        "mdp": "$2y$10$pUWSlmUeI0YCbQrbwbRS5.QF7G2PcS6EDDn3hQXu\/zsuRdg\/.7sMG"
+    },
+    "user4@example.com": {
+        "nom": "user4",
+        "prenom": "user4",
+        "date_naiss": "2021-04-28",
+        "mdp": "$2y$10$h.gMSB2Tk1CP.Mh27fuFv.hH\/INAf3.sDKfkJi3IRI2qH7FyA6dVe"
+    },
+    "aka@\u00e6kaka.com": {
+        "nom": "akaak",
+        "prenom": "akaak",
+        "date_naiss": "2023-05-11",
+        "mdp": "$2y$10$s.5hKMi.ogalD.RlyN\/eruvR6mDJgg9V1YRwGmVEea\/XAsPaE7KRG"
+    }
+}

@@ -1,0 +1,424 @@
+{
+    "categories": [
+      {
+          "nom": "accessories",
+          "produits": [
+              {   
+                  "nom": "Montre Tommy Hilfiger",
+                  "image": "img/Accessoires/montre-1.jpg",
+                  "alt": "Montre Tommy Hilfiger",
+                  "prix": 298.00,
+                  "stock": 3
+              },
+              {
+                  "nom": "Montre Jack Mason",
+                  "image": "img/Accessoires/montre-3.jpg",
+                  "alt": "Montre Jack Mason",
+                  "prix": 398.00,
+                  "stock": 1
+              },
+              {
+                  "nom": "Montre à gousset",
+                  "image": "img/Accessoires/montre-4.jpg",
+                  "alt": "Montre à gousset",
+                  "prix": 168.00,
+                  "stock": 2
+              },
+              {
+                  "nom": "Montre Festina",
+                  "image": "img/Accessoires/montre-6.jpg",
+                  "alt": "Montre Festina",
+                  "prix": 180.00,
+                  "stock": 1
+              },
+              {
+                  "nom": "Montre Fossil",
+                  "image": "img/Accessoires/montre-7.jpg",
+                  "alt": "Montre Fossil",
+                  "prix": 235.00,
+                  "stock": 0
+              },
+              {
+                  "nom": "Montre Candino",
+                  "image": "img/Accessoires/montre-8.jpg",
+                  "alt": "Montre Candino",
+                  "prix": 114.00,
+                  "stock": 0
+              },
+              {
+                  "nom": "Montre Fossil",
+                  "image": "img/Accessoires/montre-15.jpg",
+                  "alt": "Montre Fossil",
+                  "prix": 340.00,
+                  "stock": 4
+              },
+              {
+                  "nom": "Apple Watch",
+                  "image": "img/Accessoires/montre-14.jpg",
+                  "alt": "Apple Watch",
+                  "prix": 269.00,
+                  "stock": 3
+              },
+              {
+                  "nom": "Montre en bois",
+                  "image": "img/Accessoires/montre-17.jpg",
+                  "alt": "Montre en bois",
+                  "prix": 120.00,
+                  "stock": 2
+              },
+              {
+                  "nom": "Montre Frédérique Constant",
+                  "image": "img/Accessoires/montre-11.jpg",
+                  "alt": "Montre Frédérique Constant",
+                  "prix": 650.00,
+                  "stock": 1
+              },
+              {
+                  "nom": "Collier Lorer",
+                  "image": "img/Accessoires/collier-1.jpg",
+                  "alt": "Collier Lorer",
+                  "prix": 67.00,
+                  "stock": 2
+              },
+              {
+                  "nom": "Bracelet",
+                  "image": "img/Accessoires/bracelet-1.jpg",
+                  "alt": "Bracelet",
+                  "prix": 45.00,
+                  "stock": 0
+              },
+              {
+                  "nom": "Bracelet",
+                  "image": "img/Accessoires/bracelet-2.jpg",
+                  "alt": "Bracelet",
+                  "prix": 38.00,
+                  "stock": 1
+              },
+              {
+                  "nom": "Casquette",
+                  "image": "img/Accessoires/casquette-1.jpg",
+                  "alt": "Casquette",
+                  "prix": 40.00,
+                  "stock": 1
+              },
+              {
+                  "nom": "Chapeau",
+                  "image": "img/Accessoires/chapeau-1.jpg",
+                  "alt": "Chapeau",
+                  "prix": 55.00,
+                  "stock": 3
+              },
+              {
+                  "nom": "Casquette",
+                  "image": "img/Accessoires/casquette-3.jpg",
+                  "alt": "Casquette",
+                  "prix": 42.00,
+                  "stock": 0
+              },
+              {
+                  "nom": "Lunettes",
+                  "image": "img/Accessoires/lunettes-1.jpg",
+                  "alt": "Lunettes",
+                  "prix": 40.00,
+                  "stock": 4
+              }
+          ]
+      },
+      {
+        "nom": "clothes",
+        "produits": [
+          {
+              "nom": "Veste militaire",
+              "image": "img/Vetements/vetement-1.jpg",
+              "alt": "Veste militaire",
+              "prix": 70.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [7, 0, 2, 3, 0]
+          },
+          {
+              "nom": "Veste Tommy Hilfiger",
+              "image": "img/Vetements/vetement-2.jpg",
+              "alt": "Veste Tommy Hilfiger",
+              "prix": 120.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [1, 0, 1, 2, 0]
+          },
+          {
+              "nom": "Pull basic",
+              "image": "img/Vetements/vetement-3.jpg",
+              "alt": "Pull basic",
+              "prix": 65.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [1, 0, 3, 2, 0]
+          },
+          {
+              "nom": "Veste en jean",
+              "image": "img/Vetements/vetement-4.jpg",
+              "alt": "Veste en jean",
+              "prix": 92.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [1, 1, 0, 2, 2]
+          },
+          {
+              "nom": "Veste en cuir",
+              "image": "img/Vetements/vetement-5.jpg",
+              "alt": "Veste en cuir",
+              "prix": 324.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [4, 1, 3, 0, 0]
+          },
+          {
+              "nom": "Hoddie oversize",
+              "image": "img/Vetements/vetement-6.jpg",
+              "alt": "Hoddie oversize",
+              "prix": 62.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [1, 1, 5, 2, 1]
+          },
+          {
+              "nom": "Col roulé blanc",
+              "image": "img/Vetements/vetement-8.jpg",
+              "alt": "Col roulé blanc",
+              "prix": 49.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [2, 2, 3, 2, 1]
+          },
+          {
+              "nom": "Costume 2 pièces",
+              "image": "img/Vetements/vetement-9.jpg",
+              "alt": "Costume 2 pièces",
+              "prix": 178.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [1, 0, 0, 0, 0]
+          },
+          {
+              "nom": "Tee-shirt basic",
+              "image": "img/Vetements/vetement-10.jpg",
+              "alt": "Tee-shirt basic",
+              "prix": 30.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [4, 1, 3, 2, 0]
+          },
+          {
+              "nom": "Pull col rond",
+              "image": "img/Vetements/vetement-11.jpg",
+              "alt": "Pull col rond",
+              "prix": 49.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [5, 4, 3, 2, 1]
+          },
+          {
+              "nom": "Tee-shirt basic",
+              "image": "img/Vetements/vetement-12.jpg",
+              "alt": "Tee-shirt basic",
+              "prix": 44.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [2, 1, 3, 2, 1]
+          },
+          {
+              "nom": "Tee-shirt basic",
+              "image": "img/Vetements/vetement-13.jpg",
+              "alt": "Tee-shirt basic",
+              "prix": 38.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [0, 1, 3, 1, 2]
+          },
+          {
+              "nom": "Veste en jean",
+              "image": "img/Vetements/vetement-14.jpg",
+              "alt": "Veste en jean",
+              "prix": 99.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [0, 0, 0, 0, 0]
+          },
+          {
+              "nom": "Manteau beige",
+              "image": "img/Vetements/vetement-15.jpg",
+              "alt": "Manteau beige",
+              "prix": 120.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [3, 4, 2, 7, 1]
+          },
+          {
+              "nom": "Hoodie",
+              "image": "img/Vetements/vetement-16.jpg",
+              "alt": "Hoodie",
+              "prix": 39.00,
+              "tailles": ["XS", "S", "M", "L", "XL"],
+              "stock": [2, 0, 1, 2, 0]
+          }
+        ]
+      },
+      {
+        "nom": "customs",
+        "produits": [
+          {
+            "nom": "AF1 Smile",
+            "image": "img/Customs/Custom-1.jpg",
+            "alt": "AF1 Smile",
+            "prix": 150.00,
+            "tailles": ["40", "41", "42", "43", "44", "45"],
+            "stock": [1, 2, 3, 2, 0, 0]
+          },
+          {
+              "nom": "AF1 Cartoon",
+              "image": "img/Customs/Custom-2.jpg",
+              "alt": "AF1 Cartoon",
+              "prix": 160.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 1, 1, 1, 1, 1]
+          },
+          {
+              "nom": "AF1 Cartoon",
+              "image": "img/Customs/Custom-3.jpg",
+              "alt": "AF1 Cartoon",
+              "prix": 160.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 2, 2, 1, 3, 4]
+          },
+          {
+              "nom": "Jordan 1 Demon Slayer",
+              "image": "img/Customs/Custom-5.webp",
+              "alt": "Jordan 1 Demon Slayer",
+              "prix": 142.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 0, 2, 2, 0, 1]
+          },
+          {
+              "nom": "AF1 Dragon Ball Z",
+              "image": "img/Customs/Custom-6.jpg",
+              "alt": "AF1 Dragon Ball Z",
+              "prix": 150.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [0, 0, 3, 2, 1, 0]
+          },
+          {
+              "nom": "Jordan 1 Zoro",
+              "image": "img/Customs/Custom-8.jpg",
+              "alt": "Jordan 1 Zoro",
+              "prix": 167.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 0, 1, 2, 0, 0]
+          }
+        ]
+      },
+      {
+          "nom": "shoes",
+          "produits": [
+            {
+              "nom": "Converse",
+              "image": "img/Chaussures/chaussures-1.jpg",
+              "alt": "Converse",
+              "prix": 120.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [3, 0, 3, 2, 0, 0]
+            },
+            {
+              "nom": "Bottines",
+              "image": "img/Chaussures/chaussures-2.jpg",
+              "alt": "Bottines",
+              "prix": 79.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [4, 0, 3, 2, 0, 0]
+            },
+            {
+                "nom": "Bottines basses Malfroid",
+                "image": "img/Chaussures/chaussures-3.jpg",
+                "alt": "Bottines basses Malfroid",
+                "prix": 160.00,
+                "tailles": ["40", "41", "42", "43", "44", "45"],
+                "stock": [2, 1, 3, 2, 1, 1]
+            },
+            {
+              "nom": "Converses x Off-White",
+              "image": "img/Chaussures/chaussures-4.jpg",
+              "alt": "Converses x Off-White",
+              "prix": 1600.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 1, 1, 1, 1, 1]
+            },
+            {
+              "nom": "Nike dunk high",
+              "image": "img/Chaussures/chaussures-5.jpeg",
+              "alt": "Nike dunk high",
+              "prix": 100.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [0, 0, 0, 0, 0, 0]
+            },
+            {
+              "nom": "Converses x Comme des garçons",
+              "image": "img/Chaussures/chaussures-6.webp",
+              "alt": "Converses x Comme des garçons",
+              "prix": 119.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 1, 2, 1, 1, 1]
+            },
+            {
+              "nom": "Bottines",
+              "image": "img/Chaussures/chaussures-7.webp",
+              "alt": "Bottines",
+              "prix": 83.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [4, 1, 3, 2, 3, 2]
+            },
+            {
+              "nom": "Basket Martin Valen",
+              "image": "img/Chaussures/chaussures-8.jpg",
+              "alt": "Basket Martin Valen",
+              "prix": 99.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 1, 3, 2, 0, 0]
+            },
+            {
+              "nom": "Nike Blazer Low Sacai KAWS Red",
+              "image": "img/Chaussures/chaussures-9.jpeg",
+              "alt": "Nike Blazer Low Sacai KAWS Red",
+              "prix": 138.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [7, 2, 3, 0, 0, 2]
+            },
+            {
+              "nom": "Nike Air Jordan 1",
+              "image": "img/Chaussures/chaussures-10.jpg",
+              "alt": "Nike Air Jordan 1",
+              "prix": 129.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [3, 0, 1, 2, 1, 1]
+            },
+            {
+              "nom": "Nike AD1 x Carhart",
+              "image": "img/Chaussures/chaussures-11.jpg",
+              "alt": "Nike AF1 x Carhart",
+              "prix": 89.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 0, 3, 2, 0, 0]
+            },
+            {
+              "nom": "Adidas Yeezy 500 Desert Rat Blush",
+              "image": "img/Chaussures/chaussures-13.jpg",
+              "alt": "Adidas Yeezy 500 Desert Rat Blush",
+              "prix": 330.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [0, 2, 2, 1, 0, 1]
+            },
+            {
+              "nom": "K-SWISS",
+              "image": "img/Chaussures/chaussures-14.jpg",
+              "alt": "K-SWISS",
+              "prix": 85.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [1, 0, 3, 2, 1, 0]
+            },
+            {
+              "nom": "Basket",
+              "image": "img/Chaussures/chaussures-15.jpg",
+              "alt": "Basket",
+              "prix": 79.00,
+              "tailles": ["40", "41", "42", "43", "44", "45"],
+              "stock": [0, 1, 2, 2, 0, 3]
+            }
+          ]
+        }
+    ]
+}
+
