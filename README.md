@@ -107,6 +107,14 @@ Dans le dossier "php", vous trouverez les fichiers suivants :
 - panier.php correspond au panier
 - produits.php est la page des produits dont les produits diffèrent en fonction du lien sur lequel on clique.
 
+## Résultat
+
+<img width="1906" height="932" alt="web-site2" src="https://github.com/user-attachments/assets/ed63f374-07a2-4b81-b5f7-1e063d9a08a3" />
+
+<img width="1915" height="932" alt="web-site11" src="https://github.com/user-attachments/assets/097e331c-f0a5-4a59-9fd7-938b3e31426d" />
+
+<img width="1914" height="932" alt="web-site8" src="https://github.com/user-attachments/assets/ca90edf2-c26e-4c1e-8400-e072a29ec2e4" />
+
 ## Auteur
 
 Réalisé par Alexandre Pauly
